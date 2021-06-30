@@ -1,0 +1,7 @@
+ecg rate 80 bpm 20 data
+
+pvc 6/menit 20 data
+
+25dtk
+
+10ms
